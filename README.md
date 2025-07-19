@@ -1,1 +1,1 @@
-# gemmatician
+# gemmatician - MathsGPT
